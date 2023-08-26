@@ -66,6 +66,8 @@
                                         </li>
                                         <li class="rd-nav-item"><a class="rd-nav-link" href="#kontak">Kontak</a>
                                         </li>
+                                        <li class="rd-nav-item"><a class="rd-nav-link" href="/login">Login</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -178,8 +180,8 @@
                                                     <h6 class="product-title"><a
                                                             href="#">{{ $item->nama }}</a></h6>
                                                     <div class="product-price-wrap">
-                                                        <div class="product-price">Rp. {{ $item->harga }}</div>
-                                                        <h4>{{ $item->berat }}</h4>
+                                                        <div class="product-price">{{ $item->berat }}</div>
+                                                        <h4>Rp. {{ $item->harga }}</h4>
                                                         <p>{{ $item->deskripsi }}</p>
                                                     </div>
                                                 </div>
