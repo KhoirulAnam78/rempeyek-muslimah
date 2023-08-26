@@ -219,9 +219,9 @@
                     <h2 class="wow slideInUp" data-wow-delay="0s">Kontak</h2>
                 </div>
                 <div class="container">
-                    <p class="oh big text-width-large"><span>Jalan. Mpu
-                            Sendok, RT 14, RW 05, Kelurahan Solok Sipin, Kecamatan Danau Sipin, Kota
-                            Jambi</span></p>
+                    <p>Jalan. Mpu
+                        Sendok, RT 14, RW 05, Kelurahan Solok Sipin, Kecamatan Danau Sipin, Kota
+                        Jambi</p>
                     <p>Kontak : 0852-6624-4159</p>
                 </div>
             </div>
