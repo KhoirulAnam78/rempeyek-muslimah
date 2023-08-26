@@ -170,7 +170,7 @@
                                             <div class="unit flex-row flex-lg-column">
                                                 <div class="unit-left">
                                                     <div class="product-figure"><img
-                                                            src="{{ asset('/storage') . $item->image }}"
+                                                            src="{{ asset('storage/') . $item->image }}"
                                                             alt="" width="270" height="280" />
                                                     </div>
                                                 </div>
