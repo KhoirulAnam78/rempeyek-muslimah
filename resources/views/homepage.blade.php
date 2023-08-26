@@ -152,7 +152,7 @@
         </section>
 
         <!-- Trending products-->
-        <section class="section section-md bg-default">
+        <section class="section section-md bg-default" id="produk">
             <div class="container">
                 <h2 class="box-icon-ruby-title" style="font-weight: bold"><a href="#">Produk</a></h2>
             </div>
@@ -196,7 +196,7 @@
         </section>
 
         <!-- Section CTA 2-->
-        <section class="section text-center">
+        <section class="section text-center" id="tentang">
             <div class="parallax-container" data-parallax-img="images/bg-parallax-1.jpg">
                 <div class="parallax-content section-xl section-inset-custom-1 context-dark bg-overlay-40">
                     <div class="container">
@@ -213,7 +213,7 @@
         </section>
 
         <!-- Team of professionals-->
-        <section class="section section-md bg-default">
+        <section class="section section-md bg-default" id="kontak">
             <div class="container">
                 <div class="oh">
                     <h2 class="wow slideInUp" data-wow-delay="0s">Kontak</h2>
@@ -227,7 +227,7 @@
             </div>
         </section>
         <!-- Page Footer-->
-        <footer class="section footer-variant-2 footer-modern context-dark section-top-image section-top-image-dark">
+        <footer class="section footer-variant-2 footer-modern context-dark">
             <div class="footer-variant-2-bottom-panel">
                 <div class="container">
                     <!-- Rights-->
