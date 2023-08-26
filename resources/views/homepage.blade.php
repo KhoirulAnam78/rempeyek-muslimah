@@ -170,7 +170,7 @@
                                             <div class="unit flex-row flex-lg-column">
                                                 <div class="unit-left">
                                                     <div class="product-figure"><img
-                                                            src="{{ asset('assets/homepage/images/product-5-270x280.png') }}"
+                                                            src="{{ asset('/storage') . $item->image }}"
                                                             alt="" width="270" height="280" />
                                                     </div>
                                                 </div>
@@ -196,7 +196,7 @@
         </section>
 
         <!-- Section CTA 2-->
-        <section class="section text-center" id="tentang">
+        <section class="section text-center" id="tentang" style="background-color: green !important">
             <div class="parallax-container" data-parallax-img="images/bg-parallax-1.jpg">
                 <div class="parallax-content section-xl section-inset-custom-1 context-dark bg-overlay-40">
                     <div class="container">
